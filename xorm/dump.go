@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/go-xorm/core"
-	"github.com/go-xorm/xorm"
+	"github.com/rover5269/core"
+	"github.com/rover5269/xorm"
 )
 
 var CmdDump = &Command{

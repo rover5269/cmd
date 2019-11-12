@@ -9,7 +9,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/go-xorm/core"
+	"github.com/rover5269/core"
 )
 
 type LangTmpl struct {
